@@ -9,4 +9,4 @@ Some things are easier to forecast than others. The time of the sunrise tomorrow
 3. How similar the future to the past
 4. Whether the forecast can affect the thing we are trying to forecast
 
-5. For example, short-term forecast of residential electricity demand can be highly accurate because all four conditions are usually satisfied.
+For example, short-term forecast of residential electricity demand can be highly accurate because all four conditions are usually satisfied.
